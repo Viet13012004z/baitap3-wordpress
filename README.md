@@ -44,3 +44,7 @@ url của wp
 # Đã public thành công 
 
 <img width="870" height="1885" alt="image" src="https://github.com/user-attachments/assets/bd199e66-49ba-464e-9a57-9528f06c6963" />
+
+# Sau khi tạo bài viết và tạo tài khoản thì dữ liệu sẽ hiện ở phpmyadmin
+
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/7072099c-55d1-47e6-b9bc-f4831d63ac4a" />
